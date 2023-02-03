@@ -2,4 +2,4 @@
 
 http://ruili.click/
 
-Made using React & Hosted on AWS
+Made with React & Hosted on AWS
